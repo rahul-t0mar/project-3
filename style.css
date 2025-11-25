@@ -4,7 +4,7 @@ body{
 #cycle-pic{
     width: 40vw;
     transition: transform 0.7s ease-in-out;
-    border-radius : 15px;
+    border-radius : 3%;
 }
 #cycle-pic:hover{
     transform: scale(1.05);
@@ -49,3 +49,4 @@ h2:hover{
     transform: scale(1.21);
 
 }
+
